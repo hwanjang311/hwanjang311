@@ -1,5 +1,6 @@
 ## Hi there 👋
 # my name is seojihwan. 
+## I am a college student who likes to create and is learning programming.
 <!--
 **hwanjang311/hwanjang311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
